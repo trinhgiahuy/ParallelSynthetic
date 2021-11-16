@@ -1,1 +1,2 @@
-# ParallelSynthetic
+## ParallelSynthetic
+My note for parallelism
